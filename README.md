@@ -1,5 +1,5 @@
 # Portifolio3
-Uma página com meu projetos e adições futuras.
+Uma página com meus futuros projetos e aprendizado de novas tecnologias futuramente.
 
 Tecnologias utilizadas
 
